@@ -1,0 +1,82 @@
+
+.App-link {
+  color: #61dafb;
+}
+.nav-bar{
+  text-decoration: none;
+  padding: 12px;
+  background-color: skyblue;
+  list-style: none;
+  margin: 0px;
+}
+
+.nav-bar li{
+  display: inline-block;
+  padding: 10px;
+  list-style: none;     
+}
+
+.nav-bar li a{
+  text-decoration: none;
+  margin: 4px;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+  background-color: skyblue;
+}
+
+.Signup h1{
+  text-align: center;
+}
+
+.Signup input{
+  padding: 7px;
+  margin: 20px;
+  width: 300px;
+  border: 1px solid skyblue;
+  display: block;
+}
+
+.Signup button{
+  padding: 10px;
+    width: 150px;
+    margin: 20px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.right{
+  text-align: right;
+}
+.logo{
+  width: 50px;
+  float: left;
+  border-radius: 0%;
+  margin-left: 8px;
+  margin-top: 8px;
+}
+.valid{
+  color: red;
+  margin-left: 20px;
+  margin-top: -20px;
+  display: block;
+}
+.product-list{
+  text-align: center;
+  margin-top: 50px;
+}
+.product-list ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 7px;
+  margin: 3px;
+  width: 150px;
+}
+.product-list ul{
+  margin: 1px;
+}
